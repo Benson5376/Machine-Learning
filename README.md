@@ -1,4 +1,4 @@
-# Machine-Learning
+# NYCU-2022-Machine-Learning
 NYCU Machine Learning (2022 Fall)
 
 ## HW1-Linear Regression using Gradient Descent
